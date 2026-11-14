@@ -1,4 +1,4 @@
-# kognai-ai
+# Kognai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kognai-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kognai.ai/
+Kognai is a platform offering a sovereign AI runtime that enables users to own and control powerful AI agents. It provides a suite of tools and protocols for memory, governance, and coordination, allowing developers to build, deploy, and manage AI-driven applications with local-first infrastructure and open standards.
+
+**Areas:** AI · Sovereign · Platform · Open-Source · Community
+
+## Kognai on APIs.io
+
+Everything profiled for Kognai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kognai-ai/](https://apis.io/providers/kognai-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Kognai Golden Kog API](https://apis.io/apis/kognai-ai/kognai-ai-golden-kog-api/) — Token risk and structure facts on Solana and Base, never a trading signal.
+- [Kognai Kreativ API](https://apis.io/apis/kognai-ai/kognai-ai-kreativ-api/) — Images and short videos from a text prompt, reviewed before delivery.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Kognai Agentic Access](https://apis.io/agentic-access/kognai-ai/kognai-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Kognai Ai Context](https://apis.io/jsonld/kognai-ai/kognai-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Kognai API Rules](https://apis.io/rules/kognai-ai/kognai-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kognai Domain Security](https://apis.io/security/kognai-ai/kognai-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kognai.ai/)
+- [Documentation](https://www.kognai.ai/docs)
+- [API reference](https://www.kognai.ai/llms.txt)
+- [Privacy policy](https://www.kognai.ai/privacy)
+- [GitHub](https://github.com/Kognai)
+
+## API Evangelist rating
+
+**Kin Score 34.6** — thin · rubric 0.27.0 · scored 2026-11-14
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 44.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 37.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kognai-ai/](https://apis.io/providers/kognai-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kognai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kognai-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
